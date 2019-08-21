@@ -70,7 +70,7 @@ function promptSize(){
     } else {
         promptSize();
     }    
-
+ 
 }
 //random hex color
 function getRandomColor() {

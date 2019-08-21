@@ -14,3 +14,17 @@
     border: 0.25px solid rgb(220, 220, 220);   
     float: left;
 }
+button{
+    border-color: #007bffb7;
+    border-radius: 8px;
+    border-style: solid;
+    color: #fff;
+    font-size: 12px;
+    background: linear-gradient(#007bff, #0073ee);
+    padding: 4px;
+    margin: 5px;
+}
+button:hover{
+    background: linear-gradient(#007bffe5, #0073eee0);
+
+}
